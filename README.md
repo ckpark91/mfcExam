@@ -10,4 +10,16 @@
 
 > in the future than in the past.
 
-끝.
+강조
+
+*this text will be italic*  
+_this text will be italic_
+
+**this text will be italic**  
+__this text will be italic__
+
+*You **can** comine them*
+
+the end.
+
+
