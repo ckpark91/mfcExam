@@ -12,10 +12,12 @@
 
 강조
 
-*this text will be italic*  
+*this text will be italic*
+
 _this text will be italic_
 
-**this text will be italic**  
+**this text will be italic**
+
 __this text will be italic__
 
 *You **can** comine them*
